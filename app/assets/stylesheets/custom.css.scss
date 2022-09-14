@@ -1,0 +1,12 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+/* header */
+.bg-blue {
+    background-color: hwb(216 29% 0%);
+}
+
+body{
+    margin-top: 60px;
+    background-color: rgb(20, 20, 20);
+}
